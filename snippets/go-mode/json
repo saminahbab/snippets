@@ -1,0 +1,7 @@
+# -*- mode:snippet; -*-
+# name: json struct atrr
+# key: aj
+# group: structs
+# --
+
+$1 $2 \`json:"$3"\`

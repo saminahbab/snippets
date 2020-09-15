@@ -1,0 +1,7 @@
+# -*- mode:snippet; -*-
+# name: map string interface{}
+# key: ming
+# group: data sctructures
+# --
+
+map[string]interface{}

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: log print
+# key: lp
+# --
+
+log.Print("$1")
