@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: lisp block
+# key: cod
+# --
+
+
+
+#+BEGIN_SRC emacs-lisp
+															$code
+
+#+END_SRC

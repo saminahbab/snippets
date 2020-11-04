@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tripple comment
+# key: tri
+# --
+"""
+$1
+"""

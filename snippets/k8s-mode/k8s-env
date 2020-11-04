@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: k8s-env
+# key: kenv
+# group: env
+# --
+- name: $1
+			value: $2
