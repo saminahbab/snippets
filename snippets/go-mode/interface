@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: interface
+# key: terf
+# group: structs
+# --
+
+type $1 interface {
+     $2
+}
