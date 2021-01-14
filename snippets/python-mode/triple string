@@ -1,8 +1,0 @@
-# -*- mode: snippet -*-
-# name: triple string
-# key: tri
-# group: comment
-# --
-"""
-${1}
-"""
