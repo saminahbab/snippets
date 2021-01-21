@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: jupyter python
+# key: pyc
+# --
+
+#+BEGIN_SRC jupyter-python :session localhost
+$1
+#+END_SRC
