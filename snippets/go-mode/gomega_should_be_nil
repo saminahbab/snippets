@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: should_be_nil
+# key: sbn
+# group: testing
+# --
+
+Expect($1).To(BeNil())
