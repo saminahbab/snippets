@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: ginkgo_it
+# key: git
+# group: ginkgo
+# --
+
+It("$1", func() {
+    $2
+})

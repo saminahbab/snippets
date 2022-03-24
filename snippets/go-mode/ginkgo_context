@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: ginkgo_context
+# key: gco
+# group: ginkgo
+# --
+
+Context("$1", func() {
+    $2
+})
